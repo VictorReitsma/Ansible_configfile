@@ -6,5 +6,6 @@ all:
     linux:
       hosts:
         pi.here:
-
-      
+    pi:
+      hosts:
+        pi.here:      
