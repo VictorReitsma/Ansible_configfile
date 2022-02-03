@@ -8,4 +8,4 @@ all:
         pi.here:
     pi:
       hosts:
-        pi.here:      
+        pi.here:
