@@ -1,0 +1,10 @@
+---
+all:
+  hosts:
+    pi.here:
+  children:
+    linux:
+      hosts:
+        pi.here:
+
+      
